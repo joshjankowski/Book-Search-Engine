@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "proxy": "http://localhost:3001",
+  "proxy": "http://localhost:3001/",
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "@testing-library/jest-dom": "^4.2.4",
