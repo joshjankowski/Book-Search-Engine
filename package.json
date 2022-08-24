@@ -1,0 +1,26 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshjankowski/Book-Search-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/joshjankowski/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/joshjankowski/Book-Search-Engine#readme"
+}
